@@ -1,0 +1,40 @@
+
+body{
+    background: url(./media/pic1.webp);
+}
+
+
+#navbarSupportedContent ul li a:hover {
+    background-color: rgba(206, 12, 103, 0.4);
+}
+
+nav{
+    background-color: rgb(178, 162, 162);
+}
+
+#videoh1 {
+    color: cyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 15px 15px 15px gold;
+}
+
+.video{
+    display: block;
+    
+}
+
+#video1{
+    margin-left: 5px;
+   
+}
+
+#video2{
+  margin-left: 50%;
+   
+}
+
+#video3{
+    margin-left: 50%;
+     
+  }

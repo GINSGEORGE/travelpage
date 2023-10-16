@@ -1,0 +1,16 @@
+/* body{
+    background: url(./media/arabic-food-kabsa-with-chicken-almonds-closeup-plate-generative-ai_779468-4840.avif);
+    background-size: cover;
+} */
+
+#home{
+    background-color:rgba(226, 149, 185, 0.4); ;
+    transform-style: calc();
+    
+    
+}
+
+/* navbar hover css */
+#navbarSupportedContent ul li a:hover {
+    background-color: rgba(226, 149, 185, 0.4);
+}

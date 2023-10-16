@@ -1,0 +1,47 @@
+
+
+/* navbar hover css */
+nav ul li a:hover {
+    background-color: rgba(226, 149, 185, 0.4);
+}
+
+nav{
+    position: fixed;
+}
+
+
+#playimg1{
+    position: fixed;
+    padding:120px;
+    height: 180px;
+    width: 45%;
+    margin-left: 25%;
+   
+    
+}
+
+
+
+
+#playimg2{
+   top: 55%;
+    padding: 140px;
+}
+
+
+
+#playimg3{
+    top: 105%;
+    padding:140px;
+}
+
+#playimg4{
+    top: 105%;
+    padding:140px;
+}
+
+
+img{
+    transform: scale(1);
+    transition: all;
+}

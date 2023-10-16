@@ -1,0 +1,7 @@
+body{
+    background: url(./media/carousal1.1.webp);
+    max-height:  800px;
+}
+  /* navbar hover css */
+  #navbarSupportedContent ul li a:hover{
+    color: rgb(241, 226, 141);
